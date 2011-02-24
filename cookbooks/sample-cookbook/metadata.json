@@ -24,7 +24,8 @@
   "groupings": {
   },
   "recipes": {
-    "sample-cookbook::helloworld": "My first recipe, prints Hello World to the RightScale dashboard"
+    "sample-cookbook::helloworld": "My first recipe, prints Hello World to the RightScale dashboard",
+    "sample-cookbook::helloworld2": "My 2nd recipe, prints Hello World2 to the RightScale dashboard"
   },
   "version": "0.0.1"
 }

@@ -7,3 +7,5 @@ version          "0.0.1"
 
 recipe "sample-cookbook::helloworld", "My first recipe, prints Hello World to the RightScale dashboard"
 
+recipe "sample-cookbook::helloworld2", "My 2nd recipe, prints Hello World2 to the RightScale dashboard"
+
